@@ -1,0 +1,2 @@
+To je opis naloge 4. V tej nalogi se učim uporabljati Git in GitHub.
+
